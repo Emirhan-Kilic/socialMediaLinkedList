@@ -11,4 +11,4 @@ Content creators can share and remove contents with unique IDs and titles.
 The platform can display the list of all users, content creators, followers, and contents in sorted order according to their IDs.
 The platform can handle invalid operations and display warning messages.
 
-Created with dynamic memory allocation based on Linked Lists.
+Created with dynamic memory allocation based on Linked Lists with OOP implementation. No other data structures.
