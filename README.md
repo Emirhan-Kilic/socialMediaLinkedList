@@ -3,7 +3,8 @@
 Social Media Platform
 This project is a C++ implementation of a simple social media platform that allows regular users and content creators to interact with each other. The platform uses sorted linked lists to store and manage the data of users, content creators, and contents.
 
-Features
+Features:
+
 Users can sign up and remove their accounts with unique IDs and names.
 Users can follow and unfollow content creators with unique IDs and names.
 Content creators can share and remove contents with unique IDs and titles.
